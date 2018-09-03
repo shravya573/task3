@@ -1,0 +1,50 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"vendi",
+			"email":"shravya putts@gmail.com",
+			"phone":"+91 1010101010",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"ksrm Engg college",
+					"data":["72%","2016-20"]
+				},
+				{
+					"degree":"intermediate",
+					"institute":"narayana college",
+					"data":["72%","2012-15"]
+				},
+				{
+					"degree":"ssc",
+					"institute":"prasad school",
+					"data":["72%","2012-15"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"putts",
+			"email":"bhuuuuu123@gmail.com",
+			"phone":"+91 1010101010",
+			"education":[
+				{
+					"degree":"intremediate",
+					"institute":"narayana  college",
+					"data":["72%","2012-15"]
+				},
+				{
+					"degree":"B-tech",
+					"institute":"Raghu Engg college",
+					"data":["72%","2012-15"]
+				},
+				{
+					"degree":"ssc",
+					"institute":"sri chaitanya school",
+					"data":["72%","2012-15"]
+				}
+			]
+		}
+	]
+}
