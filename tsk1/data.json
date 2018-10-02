@@ -1,0 +1,50 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"vendi",
+			"email":"vendi@gmail.com",
+			"phone":"1234567890",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"SVIT Engg college",
+					"data":["72%","2016-20"]
+				},
+				{
+					"degree":"intermediate",
+					"institute":"narayana college",
+					"data":["88%","2014-16"]
+				},
+				{
+					"degree":"Tenth",
+					"institute":"prasad School",
+					"data":["77%","2013-14"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"putts",
+			"email":"putts@gmail.com",
+			"phone":"1234567890",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"ksrm Engg college",
+					"data":["72%","2016-20"]
+				},
+				{
+					"degree":"INTERMEDIATE",
+					"institute":"narayana junior college",
+					"data":["72%","2014-16"]
+				},
+				{
+					"degree":"TENTH",
+					"institute":"ngesh SCHOOL",
+					"data":["72%","2013-14"]
+				}
+			]
+		}
+	]
+}
